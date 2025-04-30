@@ -7,10 +7,11 @@
 请补全下面的函数，实现输出"Hello, World!"的功能。
 """
 
+
 def print_hello_world():
     """
     输出"Hello, World!"
-    
+
     用于学习print函数的基本使用
     """
-    pass
+    print("Hello, World!")
